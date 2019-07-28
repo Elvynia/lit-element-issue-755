@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "sourceRoot": "src",
+        "target": "es6",
+        "module": "esnext",
+        "sourceMap": true,
+        "outDir": "dist",
+        "removeComments": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "declaration": true,
+        "preserveSymlinks": true,
+        "lib": [
+            "dom",
+            "es2017"
+        ]
+    },
+    "exclude": [
+        "node_modules",
+        "dist",
+        "build"
+    ]
+}

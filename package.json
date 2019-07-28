@@ -1,0 +1,17 @@
+{
+  "name": "lit-issue-755",
+  "version": "1.0.0",
+  "description": "Repo to reproducer lit-element issue #755",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "polymer serve"
+  },
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "polymer-cli": "^1.9.11",
+    "typescript": "^3.5.3"
+  }
+}
